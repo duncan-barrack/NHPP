@@ -40,7 +40,12 @@ Running optimisation to obtain B-spline coefficients.
 ```
 Once the optimisation is complete, the following raster plots showing a selection of event times for each sample as well as plots of the NHPP rate functions for each class will be produced.
 
-![class_eg1_raster1_train](https://cloud.githubusercontent.com/assets/9549001/23590723/392b8fda-01dd-11e7-87dd-cf68c3bcff9c.jpg) ![class_eg1_raster1_train](https://cloud.githubusercontent.com/assets/9549001/23590723/392b8fda-01dd-11e7-87dd-cf68c3bcff9c.jpg)
+![class_eg1_raster1_train](https://cloud.githubusercontent.com/assets/9549001/23590723/392b8fda-01dd-11e7-87dd-cf68c3bcff9c.jpg) ![class_eg1_raster2_train](https://cloud.githubusercontent.com/assets/9549001/23590932/9ff992f4-01e0-11e7-8fe3-a4911869897c.jpg)
+
+![class_eg1_raster1_test](https://cloud.githubusercontent.com/assets/9549001/23590935/a46d9f24-01e0-11e7-87b0-0a01d999e19b.jpg) ![class_eg1_raster2_test](https://cloud.githubusercontent.com/assets/9549001/23590936/a9d90ae8-01e0-11e7-9916-44676f0a8b3d.jpg)
+
+![class_eg1_nhpp1](https://cloud.githubusercontent.com/assets/9549001/23590939/aeb4333a-01e0-11e7-9d32-b61778220ed6.jpg) ![class_eg1_nhpp2](https://cloud.githubusercontent.com/assets/9549001/23590942/b41dca52-01e0-11e7-9fca-a20281c4470d.jpg)
+
 
 
 The other examples can be run in a similar way.
