@@ -5,10 +5,20 @@ This repository contains Matab code accompaining the paper ... .
 The code has been tested on Matlab R2014a (see www.mathworks.com) but should work with subsequent versions. 
 
 # Description of files
-* `NHPP_train.m - Obtains NHPP rate function estimates for training set for classification tasks. It has the following dependencies:-
+* NHPP_train.m - Obtains NHPP rate function estimates for training set for classification tasks. It has the following dependencies:-
  * NHPP_of.m - objective function to be optmimised
- * NHPP_con.m - constraint for the optimisation.
+ * NHPP_con.m - constraint for the optimisation
 * NHPP_test.m - Obtains posteriori probabilities ofr test set data  
+* NHPP_cluster.m - Obtains NHPP rate function estimates and membership probabilities for the unsupervised learning task.  It has the following dependencies:-
+ * NHPP_of_EM.m - objective function for the NHPP mixture model
+ * NHPP_con_EM.m - Optmisiation constraint
+* classification_eg1.m, classification_eg2.m and classification_eg1.m reproduce the classification results for synthetic data sets 1,2 and 3 resepctively from the paper. Similarly, clustering_eg1.m, clustering_eg2.m and clustering_eg1.m reproducde the clustering result for the synthetic data. These scripts have the following dependency:-
+ * NHPP.m - Generates event times for given rate function.
+
+# Running the examples
+To run classification_eg1.m, in Matlab, type 
+
+`classification_eg1`
 
 ```
 {
