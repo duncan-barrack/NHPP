@@ -23,7 +23,7 @@ To run `classification_eg1.m`, in Matlab, type
 
 `classification_eg1`
 
-You should see something similar to the following
+You should see the following
 
 ```
 Fitting training set for Class 1
@@ -38,7 +38,7 @@ Running optimisation to obtain B-spline coefficients.
 ```
 Once the optimisation is complete, the following raster plots showing a selection of event times for each sample as well as plots of the NHPP rate functions for each class will be produced.
 
-![alt tag](https://github.com/duncan-barrack/NHPP/files/819363/class_eg1_raster1_train.pdf)
+![class_eg1_raster1_train](https://cloud.githubusercontent.com/assets/9549001/23590660/09436f0a-01dc-11e7-9d43-05b47a256164.jpg)
 
 
 The other examples can be run in a similar way.
