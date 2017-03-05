@@ -10,6 +10,7 @@ The code has been tested on Matlab R2014a (see www.mathworks.com) but should wor
  * `NHPP_of.m` - objective function to be optmimised
  * `NHPP_con.m` - constraint for the optimisation
 * `NHPP_test.m` - Obtains posteriori probabilities ofr test set data  
+
 #### Clustering ####
 * `NHPP_cluster.m` - Obtains NHPP rate function estimates and membership probabilities for the unsupervised learning task.  It has the following dependencies:-
  * `NHPP_of_EM.m` - Objective function for the NHPP mixture model
