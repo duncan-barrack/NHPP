@@ -42,5 +42,8 @@ Once the optimisation is complete, the following raster plots showing a selectio
 
 ![class_eg1_raster1_train](https://cloud.githubusercontent.com/assets/9549001/23590660/09436f0a-01dc-11e7-9d43-05b47a256164.jpg)
 
+![class_eg1_raster1_train](https://cloud.githubusercontent.com/assets/9549001/23590660/09436f0a-01dc-11e7-9d43-05b47a256164.jpg)
+
+
 
 The other examples can be run in a similar way.
