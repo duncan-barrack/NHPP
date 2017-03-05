@@ -15,6 +15,7 @@ The code has been tested on Matlab R2014a (see www.mathworks.com) but should wor
 * `NHPP_cluster.m` - Obtains NHPP rate function estimates and membership probabilities for the unsupervised learning task.  It has the following dependencies:-
  * `NHPP_of_EM.m` - Objective function for the NHPP mixture model
  * `NHPP_con_EM.m` - Optmisiation constraint
+ 
 #### Synthetic data examples ####
 * `classification_eg1.m`, `classification_eg2.m` and `classification_eg1.m` reproduce the classification results for synthetic data sets 1,2 and 3 resepctively from the paper. Similarly, `clustering_eg1.m`, `clustering_eg2.m` and `clustering_eg1.m` reproducde the clustering result for the synthetic data. These scripts have the following dependency:-
  * `NHPP.m` - Generates event times for a given rate function.
