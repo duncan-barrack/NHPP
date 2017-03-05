@@ -20,13 +20,18 @@ To run classification_eg1.m, in Matlab, type
 
 `classification_eg1`
 
+You should see somrthing similar to the following
+
 ```
-{
-  "data": "data_dir",
-  "features": "features_dir",
-  "trained_model": "trained_model_dir",
-  "submission": "submissions_dir"
-}
+Fitting training set for Class 1
+Running optimisation to obtain B-spline coefficients.
+                                            First-order      Norm of
+ Iter F-count            f(x)  Feasibility   optimality         step
+    0     101    1.255458e+02    0.000e+00    1.348e+02
+    1     202   -1.955777e+04    0.000e+00    8.037e-01    3.821e+02
+    2     303   -1.957986e+04    0.000e+00    7.938e-01    4.048e+00
+    3     404   -1.966988e+04    0.000e+00    7.434e-01    1.926e+01
+    4     505   -1.979897e+04    0.000e+00    6.905e-01    4.254e+01
 ```
 * `data_dir` - Directory containing the downloaded competition data, e.g. `/home/user/Kaggle/BCI/data/`
 * `features_dir` - Directory containing the features extracted from the raw data
