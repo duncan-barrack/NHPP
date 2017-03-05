@@ -5,8 +5,8 @@ This repository contains Matab code accompaining the paper ... . If you use the 
 The code has been tested on Matlab R2014a (see www.mathworks.com) but should work with subsequent versions. 
 
 # Description of files
-* 'NHPP_train.m' - Obtains non homogeneous Poisson process (NHPP) rate function estimates for training set for classification tasks. It has the following dependencies:-
- * 'NHPP_of.m' - objective function to be optmimised
+* `NHPP_train.m` - Obtains non homogeneous Poisson process (NHPP) rate function estimates for training set for classification tasks. It has the following dependencies:-
+ * `NHPP_of.m` - objective function to be optmimised
  * 'NHPP_con.m' - constraint for the optimisation
 * 'NHPP_test.m' - Obtains posteriori probabilities ofr test set data  
 * 'NHPP_cluster.m' - Obtains NHPP rate function estimates and membership probabilities for the unsupervised learning task.  It has the following dependencies:-
