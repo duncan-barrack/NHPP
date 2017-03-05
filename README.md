@@ -34,16 +34,16 @@ Running optimisation to obtain B-spline coefficients.
  Iter F-count            f(x)  Feasibility   optimality         step
     0     101    1.255458e+02    0.000e+00    1.348e+02
     1     202   -1.955777e+04    0.000e+00    8.037e-01    3.821e+02
-    2     303   -1.957986e+04    0.000e+00    7.938e-01    4.048e+00
+    2     303   
+    -1.957986e+04    0.000e+00    7.938e-01    4.048e+00
     3     404   -1.966988e+04    0.000e+00    7.434e-01    1.926e+01
     4     505   -1.979897e+04    0.000e+00    6.905e-01    4.254e+01
 ```
 Once the optimisation is complete, the following raster plots showing a selection of event times for each sample as well as plots of the NHPP rate functions for each class will be produced.
 
-![class_eg1_raster1_train](https://cloud.githubusercontent.com/assets/9549001/23590660/09436f0a-01dc-11e7-9d43-05b47a256164.jpg)
+![class_eg1_raster1_train](https://cloud.githubusercontent.com/assets/9549001/23590723/392b8fda-01dd-11e7-87dd-cf68c3bcff9c.jpg)
 
-![class_eg1_raster1_train](https://cloud.githubusercontent.com/assets/9549001/23590660/09436f0a-01dc-11e7-9d43-05b47a256164.jpg)
-
+![class_eg1_raster1_train](https://cloud.githubusercontent.com/assets/9549001/23590723/392b8fda-01dd-11e7-87dd-cf68c3bcff9c.jpg)
 
 
 The other examples can be run in a similar way.
