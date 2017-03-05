@@ -35,4 +35,7 @@ Running optimisation to obtain B-spline coefficients.
 ```
 Once the optimisation is complete, the following raster plots showing a selection of event times for each sample as well as plots of the NHPP rate functions for each class will be produced.
 
+[class_eg1_raster1_train.pdf](https://github.com/duncan-barrack/NHPP/files/819363/class_eg1_raster1_train.pdf)
+
+
 The other examples can be run in a similar way.
