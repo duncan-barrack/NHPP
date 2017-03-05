@@ -6,10 +6,10 @@ The code has been tested on Matlab R2014a (see www.mathworks.com) but should wor
 
 # Description of files
 #### Classification ####
-* `NHPP_train.m` - Obtains non homogeneous Poisson process (NHPP) rate function estimates for training set for classification tasks. It has the following dependencies:-
+* `NHPP_train.m` - Obtains non homogeneous Poisson process (NHPP) rate function estimates for training set. It has the following dependencies:-
  * `NHPP_of.m` - objective function to be optmimised
  * `NHPP_con.m` - constraint for the optimisation
-* `NHPP_test.m` - Obtains posteriori probabilities ofr test set data  
+* `NHPP_test.m` - Obtains posteriori probabilities for test set data  
 
 #### Clustering ####
 * `NHPP_cluster.m` - Obtains NHPP rate function estimates and membership probabilities for the unsupervised learning task.  It has the following dependencies:-
