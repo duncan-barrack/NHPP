@@ -1,5 +1,5 @@
 # Classification and clustering for samples of event time data using non-homogeneous Poisson process models
-This repository contains Matab code for the paper ... . If you use the code in your work please cite this paper. 
+This repository contains Matab code for the paper "Classification and clustering for samples of event time data using non-homogeneous Poisson process models" http://arxiv.org/abs/1703.02111. If you use the code in your work please cite this paper. 
 
 # Software and version numbers
 The code has been tested on Matlab R2014a (see www.mathworks.com) but should work with subsequent versions. 
